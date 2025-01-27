@@ -6,7 +6,7 @@ I am proficient in data cleaning and manipulation using Python, particularly wit
 In addition, I have hands-on experience with scheduling complex data workflows using Apache Airflow with hands-on experience with Microsoft Azure to enhance efficient products.
 
 ## 📫 Let's Connect!
-* 📧 Email: eneojaide@gmail.com
+* 📧 Email: ahmedmohamed9667@gmail.com
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-eraki-7932152b2) 
 
 
