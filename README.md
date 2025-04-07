@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-![image](https://github.com/user-attachments/assets/33bf69d5-bcca-4bfe-bc71-581a48bea10f)
+ ![image](https://github.com/user-attachments/assets/33bf69d5-bcca-4bfe-bc71-581a48bea10f)
 
 
 
