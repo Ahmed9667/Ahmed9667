@@ -13,7 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- ![Untitled Diagram drawio](https://github.com/user-attachments/assets/450476b1-be1b-4f50-97c9-3bed9230a7ec)
+
+
+![image](https://github.com/user-attachments/assets/0d7f49eb-9f6c-4258-8ae0-037a57039325)
 
 
 
