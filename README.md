@@ -15,7 +15,8 @@
 <p align="left"> 
 
 
-![image](https://github.com/user-attachments/assets/0d7f49eb-9f6c-4258-8ae0-037a57039325)
+![assets_task_01jv7r52qtfb8ampe127ed1eg0_1747238226_img_1](https://github.com/user-attachments/assets/f15944cf-516d-42bb-95ec-ea356f3a79d5)
+
 
 
 
